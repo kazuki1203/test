@@ -1,0 +1,7 @@
+D:\data\SelfCSharp\SelfCSharp\bin\Debug\SelfCSharp.exe.config
+D:\data\SelfCSharp\SelfCSharp\bin\Debug\SelfCSharp.exe
+D:\data\SelfCSharp\SelfCSharp\bin\Debug\SelfCSharp.pdb
+D:\data\SelfCSharp\SelfCSharp\obj\Debug\SelfCSharp.csproj.CoreCompileInputs.cache
+D:\data\SelfCSharp\SelfCSharp\obj\Debug\SelfCSharp.exe
+D:\data\SelfCSharp\SelfCSharp\obj\Debug\SelfCSharp.pdb
+D:\data\SelfCSharp\SelfCSharp\obj\Debug\SelfCSharp.csproj.AssemblyReference.cache
